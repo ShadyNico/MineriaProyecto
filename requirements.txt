@@ -1,0 +1,7 @@
+# OpenCV llega con mediapipe (opencv-contrib-python); no instalar opencv-python
+# aparte: ambos traen el módulo cv2 y se pisan.
+mediapipe>=0.10.9
+tensorflow>=2.13
+pyautogui>=0.9.54
+numpy
+matplotlib>=3.5

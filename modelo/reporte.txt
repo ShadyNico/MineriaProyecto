@@ -1,0 +1,8 @@
+clase        precision    recall        f1   soporte
+siguiente        0.000     0.000     0.000        40
+anterior         0.200     1.000     0.333        40
+iniciar          0.000     0.000     0.000        40
+finalizar        0.000     0.000     0.000        40
+nada             0.000     0.000     0.000        40
+
+accuracy global: 0.200  (40/200)
